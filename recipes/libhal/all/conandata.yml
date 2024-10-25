@@ -1,0 +1,4 @@
+sources:
+  "4.3.1":
+    url: "https://github.com/libhal/libhal/archive/refs/tags/4.3.1.tar.gz"
+    sha256: "0f5d7997c61e535228bfbf44426e0d04de4d2e91b8e4bf45466e29de12becda1"
